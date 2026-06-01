@@ -78,7 +78,9 @@ Persistência local utilizando SQLite.
 
 ## Autor
 
-Aluno: __________________
+Aluno: Integrante:
+David Gomes da Silva Júnior
+
 Professor: Julio Cartier
 Disciplina: Programação para Dispositivos Móveis em Android
 
