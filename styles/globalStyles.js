@@ -1,0 +1,6 @@
+export const colors = {
+  primary: '#007bff',
+  success: '#28a745',
+  danger: '#dc3545',
+  warning: '#ffc107',
+};
